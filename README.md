@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aigirl18yearsold
-- 👀 I’m interested in .. science.intelligence,machine learning 
+- 👀 I’m interested in .. science.intelligence,machine learning ,c++and robotics 
 - 🌱 I’m currently learning science 
 - 💞️ I’m looking to collaborate on my projects 
 - 📫 How to reach me : via email 
