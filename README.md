@@ -31,6 +31,11 @@ Building, experimenting and learning at the intersection of
 <img src="https://img.shields.io/badge/STEM%20Outreach-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+<!-- Replace YOUR_MEDIUM_URL with your public Medium profile URL -->
+<a href="YOUR_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=aigirl18yearsold&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
@@ -283,7 +288,7 @@ Unable to attend the National Round
 
 <br><br>
 
-Global innovation competition
+<strong>25% Scholarship</strong>
 
 </td>
 
@@ -299,7 +304,7 @@ Global innovation competition
 
 <br><br>
 
-Communication & ideas
+<strong>20% Scholarship</strong>
 
 </td>
 
@@ -460,4 +465,34 @@ My work combines technology, education and community impact—using what I learn
 
 # 🌍 BEYOND CODE
 
-### 🎥 Science Communication · 🎓 STEM Education · 🚀 Entrepreneurship ·
+### 🎥 Science Communication · 🎓 STEM Education · 🚀 Entrepreneurship · 🔬 Research
+
+<br>
+
+<a href="https://youtube.com/channel/UCITPk_C5ErLHT3QQ-NoujAA">
+<img src="https://img.shields.io/badge/Study%20Seconds%20Science-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="YOUR_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/aKwncFd3f">
+<img src="https://img.shields.io/badge/STEM%20Outreach-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# 💜 KEEP BUILDING
+
+> **"Build things that make you harder to ignore."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+</div>
