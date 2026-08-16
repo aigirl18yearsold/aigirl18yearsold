@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shaila+%F0%9F%91%8B;AI+Builder+%7C+CSE+Explorer+%7C+Entrepreneur;Building+technology+for+real-world+problems;AI+%C3%97+Education+%C3%97+Entrepreneurship+%C3%97+STEM" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shaila+%F0%9F%91%8B;AI+Builder+%7C+CSE+Explorer+%7C+Entrepreneur;Building+ideas+into+real-world+solutions;AI+%C3%97+Education+%C3%97+Entrepreneurship+%C3%97+STEM" alt="Typing SVG"/>
 
 <br>
 
@@ -20,7 +20,7 @@ Building, experimenting and learning at the intersection of
 </a>
 
 <a href="https://youtube.com/channel/UCITPk_C5ErLHT3QQ-NoujAA">
-<img src="https://img.shields.io/badge/YouTube-Study%20Seconds%20Science-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Sixty%20Second%20Science-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:khatunshaila02@gmail.com">
@@ -31,9 +31,9 @@ Building, experimenting and learning at the intersection of
 <img src="https://img.shields.io/badge/STEM%20Outreach-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<!-- Replace YOUR_MEDIUM_URL with your public Medium profile URL -->
-<a href="YOUR_MEDIUM_URL">
-<img src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<!-- Replace YOUR_PUBLIC_MEDIUM_URL with your public Medium profile URL -->
+<a href="YOUR_PUBLIC_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <br><br>
@@ -46,22 +46,23 @@ Building, experimenting and learning at the intersection of
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ## 👩‍💻 About Me
 
 I'm **Shaila**, a student developer, educator and entrepreneur from Bangladesh.
 
-I enjoy turning ideas into prototypes and exploring how technology can solve problems in **education, entrepreneurship, safety and everyday life**.
+I love turning ideas into prototypes and exploring how technology can solve problems in **education, entrepreneurship, safety and everyday life**.
 
 ### 🔭 Currently
 
 - 🤖 Building AI-powered projects
 - 🧠 Learning Computer Science and AI
 - 🚀 Developing new product ideas
-- 🎓 Working on STEM education and outreach
+- 🎓 Building STEM education initiatives
 - 🌍 Participating in hackathons and competitions
-- 🧪 Experimenting with Flutter, web technologies and AI
+- 🧪 Exploring Flutter, web technologies and AI
 
 </td>
 
@@ -70,6 +71,7 @@ I enjoy turning ideas into prototypes and exploring how technology can solve pro
 <img src="https://github-readme-stats.vercel.app/api?username=aigirl18yearsold&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=666666&rank_icon=github"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -79,12 +81,36 @@ I enjoy turning ideas into prototypes and exploring how technology can solve pro
 
 # 🚀 CURRENTLY BUILDING
 
-### Four ideas. Four different problems. One goal: build something useful.
+### Ideas in development — turning problems into products.
 
 </div>
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+<h2>🌐 Nexora</h2>
+
+<h3>AI × Student Opportunities</h3>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge"/>
+
+<p>
+A student opportunity platform designed to help students discover
+<b>hackathons, competitions, scholarships, research opportunities, programs and mentorship</b> in one place.
+</p>
+
+<p>
+<b>Discover → Explore → Apply → Grow</b>
+</p>
+
+<img src="https://img.shields.io/badge/EdTech-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Opportunities-8B5CF6?style=flat-square"/>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -95,11 +121,11 @@ I enjoy turning ideas into prototypes and exploring how technology can solve pro
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
 
 <p>
-An interactive experience designed to help young people question information, investigate claims, examine evidence, make decisions and improve critical thinking.
+An interactive project designed to help young people question information, investigate claims, examine evidence and strengthen critical thinking.
 </p>
 
 <p>
-<b>Encounter → Investigate → Decide → Explain → AI Coach → Improve</b>
+<b>Encounter → Investigate → Decide → Explain → Improve</b>
 </p>
 
 <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
@@ -107,6 +133,10 @@ An interactive experience designed to help young people question information, in
 <img src="https://img.shields.io/badge/Media%20Literacy-7C3AED?style=flat-square"/>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -117,7 +147,7 @@ An interactive experience designed to help young people question information, in
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-EC4899?style=for-the-badge"/>
 
 <p>
-An AI-powered business assistant concept designed around real problems faced by small and micro-entrepreneurs.
+An AI-powered business assistant being developed around real problems faced by small and micro-entrepreneurs.
 </p>
 
 <p>
@@ -129,10 +159,6 @@ An AI-powered business assistant concept designed around real problems faced by 
 <img src="https://img.shields.io/badge/Entrepreneurship-EC4899?style=flat-square"/>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -151,6 +177,10 @@ An ongoing project exploring how AI can help people prepare for and navigate neg
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h2>🎯 FocusPod</h2>
@@ -160,37 +190,13 @@ An ongoing project exploring how AI can help people prepare for and navigate neg
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-16A34A?style=for-the-badge"/>
 
 <p>
-An ongoing project exploring tools and ideas for helping students build better focus and productive learning habits.
+An ongoing project exploring tools and ideas to help students develop stronger focus and productive learning habits.
 </p>
 
 <img src="https://img.shields.io/badge/Productivity-16A34A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Students-16A34A?style=flat-square"/>
 
 </td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/aigirl18yearsold?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 🩺 OTHER BUILDS
-
-</div>
-
-<table>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -203,10 +209,14 @@ An early-warning concept for identifying potential risks and problems in softwar
 </p>
 
 <img src="https://img.shields.io/badge/AI-DC2626?style=flat-square"/>
-<img src="https://img.shields.io/badge/Developer%20Tools-DC2626?style=flat-square"/>
 <img src="https://img.shields.io/badge/Risk%20Detection-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-DC2626?style=flat-square"/>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -224,8 +234,35 @@ A mobile health-support prototype combining voice assistance, medication managem
 
 </td>
 
+<td width="50%" valign="top">
+
+<h2>🔬 Sixty Second Science</h2>
+
+<h3>Science Communication</h3>
+
+<p>
+A science communication project focused on making scientific ideas simple, engaging and accessible to students.
+</p>
+
+<a href="https://youtube.com/channel/UCITPk_C5ErLHT3QQ-NoujAA">
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
+
 </table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/aigirl18yearsold?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
@@ -233,16 +270,17 @@ A mobile health-support prototype combining voice assistance, medication managem
 
 # 🏆 ACHIEVEMENTS
 
+</div>
+
 <table>
+
 <tr>
 
 <td align="center" width="25%">
 
 <h1>🏅</h1>
 
-<b>Lumiere Scholars</b>
-
-<br>
+<h3>Lumiere Scholars</h3>
 
 <b>Essay Award</b>
 
@@ -260,11 +298,9 @@ Excellence Award
 
 <h1>🥇</h1>
 
-<b>Astro Olympiad</b>
+<h3>Astro Olympiad</h3>
 
-<br><br>
-
-Regional <b>Medalist</b>
+<b>Regional Medalist</b>
 
 <br><br>
 
@@ -280,9 +316,7 @@ Unable to attend the National Round
 
 <h1>🏆</h1>
 
-<b>USAII Global Hackathon 2026</b>
-
-<br><br>
+<h3>USAII Global Hackathon 2026</h3>
 
 <b>Finalist</b>
 
@@ -296,9 +330,7 @@ Unable to attend the National Round
 
 <h1>🎤</h1>
 
-<b>TED Learning to Be Heard</b>
-
-<br><br>
+<h3>TED Learning to Be Heard</h3>
 
 <b>Competition Finalist</b>
 
@@ -309,9 +341,8 @@ Unable to attend the National Round
 </td>
 
 </tr>
-</table>
 
-</div>
+</table>
 
 <br>
 
@@ -322,6 +353,7 @@ Unable to attend the National Round
 </div>
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
@@ -331,7 +363,7 @@ Unable to attend the National Round
 <h3>Founder & Tutor</h3>
 
 <p>
-A community education initiative focused on helping students learn through accessible tutoring, hands-on science activities and practical learning.
+A community education initiative focused on accessible tutoring, hands-on science activities and practical learning.
 </p>
 
 <img src="https://img.shields.io/badge/Education-7C3AED?style=flat-square"/>
@@ -342,7 +374,7 @@ A community education initiative focused on helping students learn through acces
 
 <td align="center" width="50%">
 
-<h2>🌍 STEM Outreach</h2>
+<h2>🌍 STEM Outreach Program</h2>
 
 <h3>Founder & Program Director</h3>
 
@@ -362,16 +394,16 @@ A student-led STEM initiative focused on research, science communication, hands-
 
 <td align="center" width="50%">
 
-<h2>🔬 Study Seconds Science</h2>
+<h2>🔬 Sixty Second Science</h2>
 
 <h3>Science Communication</h3>
 
 <p>
-A science-focused content project exploring ways to make scientific ideas easier and more engaging for students.
+Exploring ways to make science easier to understand through short-form educational content.
 </p>
 
 <a href="https://youtube.com/channel/UCITPk_C5ErLHT3QQ-NoujAA">
-<img src="https://img.shields.io/badge/WATCH%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </td>
@@ -381,15 +413,17 @@ A science-focused content project exploring ways to make scientific ideas easier
 <h2>💡 Learn → Build → Share</h2>
 
 <p>
-My work combines technology, education and community impact—using what I learn to help others learn too.
+My work combines technology, education and community impact — using what I learn to build, teach and create opportunities for others.
 </p>
 
 <img src="https://img.shields.io/badge/LEARN-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHARE-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHARE-EC4899?style=for-the-badge"/>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -406,11 +440,13 @@ My work combines technology, education and community impact—using what I learn
 
 <img src="https://skillicons.dev/icons?i=flutter,firebase&perline=8"/>
 
-### Tools
+### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github&perline=8"/>
 
 ### Exploring
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EdTech-2563EB?style=for-the-badge"/>
@@ -429,7 +465,7 @@ My work combines technology, education and community impact—using what I learn
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aigirl18yearsold&hide_border=true&theme=transparent&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED" width="49%"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aigirl18yearsold&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=666666" width="42%"/>
 
@@ -470,11 +506,11 @@ My work combines technology, education and community impact—using what I learn
 <br>
 
 <a href="https://youtube.com/channel/UCITPk_C5ErLHT3QQ-NoujAA">
-<img src="https://img.shields.io/badge/Study%20Seconds%20Science-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sixty%20Second%20Science-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="YOUR_MEDIUM_URL">
-<img src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="YOUR_PUBLIC_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/aKwncFd3f">
