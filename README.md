@@ -81,7 +81,7 @@ I love turning ideas into prototypes and exploring how technology can solve prob
 
 # 🚀 CURRENTLY BUILDING
 
-### Ideas in development — turning problems into products.
+### Turning problems into products.
 
 </div>
 
@@ -95,7 +95,7 @@ I love turning ideas into prototypes and exploring how technology can solve prob
 
 <h3>AI × Student Opportunities</h3>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B5CF6?style=for-the-badge"/>
 
 <p>
 A student opportunity platform designed to help students discover
@@ -108,7 +108,7 @@ A student opportunity platform designed to help students discover
 
 <img src="https://img.shields.io/badge/EdTech-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Opportunities-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Student%20Opportunities-8B5CF6?style=flat-square"/>
 
 </td>
 
@@ -268,6 +268,44 @@ A science communication project focused on making scientific ideas simple, engag
 
 <div align="center">
 
+# 🎨 REAL-WORLD ENTREPRENEURSHIP
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="100%" align="center">
+
+<h2>🖌️ Rong Tuli</h2>
+
+<h3>Hand-Painted Fashion Business</h3>
+
+<p>
+A real-world creative business built around <b>hand-painted sarees and clothing</b>, combining traditional artistry, design and entrepreneurship.
+</p>
+
+<a href="https://maps.app.goo.gl/J7s7d8Vbc4qGwxhi6">
+<img src="https://img.shields.io/badge/RONG%20TULI-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Hand--Painted%20Fashion-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Entrepreneurship-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Creative%20Business-EC4899?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
 # 🏆 ACHIEVEMENTS
 
 </div>
@@ -308,7 +346,7 @@ Advanced to the <b>National Round</b>
 
 <br><br>
 
-Unable to attend the National Round
+National Round not attended
 
 </td>
 
